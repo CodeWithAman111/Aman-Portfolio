@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f49933a.css",
+    "main.js": "/static/js/main.ba8ed53f.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/react-js-icon.png": "/static/media/react-js-icon.283f9f863581bb226e65.png",
+    "static/media/boy.jpg": "/static/media/boy.e7bc5e938acce7793d63.jpg",
+    "static/media/whatsapp_logo.png": "/static/media/whatsapp_logo.738fc1f7f01336abb02b.png",
+    "static/media/email_logo.png": "/static/media/email_logo.7bb00974a950dc8444d7.png",
+    "static/media/backend-icon.png": "/static/media/backend-icon.aec5510c68a312e8fff6.png",
+    "static/media/html-icon.png": "/static/media/html-icon.84bd2bc158cd909eca3d.png",
+    "static/media/css-icon.png": "/static/media/css-icon.9f33c557b92e4e2e1cc8.png",
+    "static/media/frontend-icon.png": "/static/media/frontend-icon.71c925ccf36ea744523a.png",
+    "static/media/tools-icon.png": "/static/media/tools-icon.8fb65ca8a04fe1038f2e.png",
+    "static/media/soft-skills-icon.png": "/static/media/soft-skills-icon.b98d8df244b2a63cda7d.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.8f49933a.css.map": "/static/css/main.8f49933a.css.map",
+    "main.ba8ed53f.js.map": "/static/js/main.ba8ed53f.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f49933a.css",
+    "static/js/main.ba8ed53f.js"
+  ]
+}
